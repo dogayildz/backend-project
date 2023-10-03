@@ -1,5 +1,6 @@
 # Ekinoks-backend-project
 Ekinoks NodeJS Coding Challenge
+
 About the Project
 This project establishes the basic structure of a web application with online shopping functionality. Customers can browse products, place orders, and manage their account information. The project is built using Express.js and PostgreSQL.
 
